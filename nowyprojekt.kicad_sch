@@ -4979,6 +4979,16 @@
 		)
 		(uuid "2ec1f7ec-6860-4c73-a639-64c9b0b5a3d7")
 	)
+	(text "aa"
+		(exclude_from_sim no)
+		(at 226.314 172.212 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "32eea180-2305-4ad9-b183-2a790282e5ef")
+	)
 	(text "dopracowanie Part_info elementow itd 01.02.2026r"
 		(exclude_from_sim no)
 		(at 193.294 171.45 0)
