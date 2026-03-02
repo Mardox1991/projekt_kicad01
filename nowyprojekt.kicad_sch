@@ -4969,6 +4969,16 @@
 		)
 		(uuid "1697e6c0-6489-450d-b10e-3b5baab35326")
 	)
+	(text "01.03.2026 PRZEJSCIE NA GITHUB"
+		(exclude_from_sim no)
+		(at 195.58 180.848 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2cb94182-5d02-4873-91f1-936630fbbfb7")
+	)
 	(text "WYSWIETLACZ 7 SEGMENTOWY "
 		(exclude_from_sim no)
 		(at 150.114 83.566 0)
@@ -5033,7 +5043,7 @@
 	)
 	(text "28.02.2028 zmiana podejscia do projektu -  4 warstwy "
 		(exclude_from_sim no)
-		(at 197.358 179.832 0)
+		(at 196.85 179.07 0)
 		(effects
 			(font
 				(size 0.889 0.889)
