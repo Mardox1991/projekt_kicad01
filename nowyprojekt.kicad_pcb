@@ -8537,7 +8537,7 @@
 			)
 		)
 		(property "Value" "AMS1117-5.0"
-			(at 5.45 -0.45 180)
+			(at 5.3 0.2 180)
 			(layer "B.Fab")
 			(uuid "272040b7-0760-45be-8141-037eabdc6dc2")
 			(effects
@@ -13386,7 +13386,7 @@
 		)
 	)
 	(gr_text "Zasilanie"
-		(at 214.4 25.65 0)
+		(at 215 25.6 0)
 		(layer "B.SilkS")
 		(uuid "bf7c5ca4-5511-481f-ab89-fe4165e4cc75")
 		(effects
