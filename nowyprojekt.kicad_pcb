@@ -137,7 +137,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "C:/Users/Filip Gamer/Documents/projektkicad/nowyprojekt/gerbery_produkcja")
+			(outputdirectory "latest_finaly_PCB_ATmega328p_and_7segLED/gerber+drilling")
 		)
 	)
 	(net 0 "")
